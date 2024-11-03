@@ -26,6 +26,10 @@ A\B
 [A([1,3],:);B^2]
 
 %% problem 3
+x = 100:999;
+length(find(rem(x,21))
+
+%% problem 4
 string ='anCDHUe123';
 k = find(string>='A' & string<='Z');
 string(k) = [];
